@@ -10,7 +10,6 @@ html{
     position: relative;
     width: 100%;
     height: 100vh;
-    background: url(images/purple.jpeg);
 
 }
 .logo{
@@ -45,14 +44,14 @@ nav ul li a:hover{
 }
 .detel h1{
     font-size: 50px;
-    color: white;
+    color: black;
     margin-bottom: 20px;
 }
 span{
     color: purple;
 }
 .detel p{
-    color: white;
+    color: black;
     line-height: 22px;
 }
 
